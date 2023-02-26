@@ -1,4 +1,4 @@
-# kanban-board
+# Kanban Board
 
 ![](images/icon.png)
 
